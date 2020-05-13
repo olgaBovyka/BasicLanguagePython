@@ -1,7 +1,6 @@
 time_second_int = 0
 time_minute_int = 0
 time_hour_int = 0
-my_var_int2 = 0
 var_input = input("Введите время в секундах: ")
 if var_input.isdigit():
     time_second_int = int(var_input)
