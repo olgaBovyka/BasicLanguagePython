@@ -9,4 +9,4 @@ if var_input.isdigit():
     time_second_int = time_second_int % 60
     print("Форматированное время: {:02d}:{:02d}:{:02d}".format(time_hour_int, time_minute_int, time_second_int))
 else:
-    print("Время в секундах - это целое число")
+    print("Время в секундах - это целое число ")
