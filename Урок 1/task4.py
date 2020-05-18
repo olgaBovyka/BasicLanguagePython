@@ -9,4 +9,4 @@ if var_input.isdigit():
         my_var_int = (my_var_int - my_var_int % 10) // 10
     print("Самая большая цифра в числе ", max_int)
 else:
-    print(var_input, " - не целое число. Вы ошиблись при вводе")
+    print(var_input, " - не целое число. Вы ошиблись при вводе ")
